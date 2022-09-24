@@ -49,3 +49,7 @@ College data science lab programs, &emsp;[IIITDM Kancheepuram, chennai](http://w
 &emsp; - Difference of Sum of Upper and Lower Triangular Matrix<br>
 &emsp; - Exit<br>
 **Solution** : [matrix.py](https://github.com/datvi-031/dataScience-Python-lab/blob/main/matrix.py) <br><br>
+
+## lab #6: Dealing with DataFrames using PANDAS
+<img src="https://github.com/datvi-031/dataScience-Python-lab/blob/main/lab_img.jpeg" alt="MarineGEO circle logo"/><br>
+**Solution** : [pandas_cs31.py](https://github.com/datvi-031/dataScience-Python-lab/blob/main/pandas_cs31.py) <br><br>
