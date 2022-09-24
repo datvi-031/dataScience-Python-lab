@@ -30,3 +30,22 @@ College data science lab programs, &emsp;[IIITDM Kancheepuram, chennai](http://w
 &emsp; - Exit<br>
 &emsp; - The write option takes ‘n’ book information from the user and writes it into a file. The read option reads all the information stored in a file. The search option allows the search of books based on the book title (assume there are no duplicates)<br><br>
 **Solution** : [lab4.py](https://github.com/datvi-031/dataScience-Python-lab/blob/main/lab4.py) <br><br>
+
+## lab #5: Dealing Matrices with Numerical Python NUMPY
+**Question**: Write a python program to perform matrix operations on an M x N matrix and solve a system of linear equations. Use inbuilt functions to implement the operations. Get two matrices from the user. The program should support the following Menus,<br>
+&emsp; - Matrix Addition<br>
+&emsp; - Matrix Subtraction<br>
+&emsp; - Scalar Matrix Multiplication<br>
+&emsp; - Elementwise Matrix Multiplication<br>
+&emsp; - Matrix Multiplication<br>
+&emsp; - Matrix Transpose<br>
+&emsp; - Trace of a Matrix<br>
+&emsp; - Solve System of Linear Equations<br>
+&emsp; - Determinant<br>
+&emsp; - Inverse<br>
+&emsp; - Singular Value Decomposition<br>
+&emsp; - Eigen Value<br>
+&emsp; - Search an Element<br>
+&emsp; - Difference of Sum of Upper and Lower Triangular Matrix<br>
+&emsp; - Exit<br>
+**Solution** : [matrix.py](https://github.com/datvi-031/dataScience-Python-lab/blob/main/matrix.py) <br><br>
