@@ -14,7 +14,7 @@ College data science lab programs, &emsp;[IIITDM Kancheepuram, chennai](http://w
 &emsp; - Delete<br>
 &emsp; - Search<br>
 &emsp; - Exit<br><br>
-**Solution** : [lab2_q1.py](https://github.com/datvi-031/dataScience-Python-lab/blob/main/lab2_q1.py) <br><br>
+**Solution** : [lab2_q1.py](https://github.com/datvi-031/dataScience-Python-lab/blob/main/lab1.py) <br><br>
 **Question 2**: Write a python program to implement set operations using menu-driven programming. The menus to be implemented are as follows,<br>
 &emsp; Create Empty Set<br>
 &emsp; - Insert<br>
