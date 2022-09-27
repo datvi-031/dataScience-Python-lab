@@ -1,6 +1,13 @@
 # DataScience-Python-lab
 College data science lab programs, &emsp;[IIITDM Kancheepuram, chennai](http://www.iiitdm.ac.in)
 
+## lab #1: Insersion sort and Binary search
+**Question** : 
+<br>Write a python program to sort a list of ‘n’ elements using insertion sort. Do not use sort() function. Maintain proper boundary conditions.
+<br>Write a program to search for a value ‘k’ in a list of ‘n’ elements using binary search. sort() function can be used to sort the list. Maintain proper boundary conditions.
+<br>
+**Solution** : [lab1.py](https://github.com/datvi-031/dataScience-Python-lab/blob/main/lab2_q1.py) <br><br>
+
 ## lab #2: dealing with python dictionaries
 **Question 1** : Write a python script to implement student details using a dictionary. The roll number of the student will be the key, the value will be a list containing the name, CGPA, and mobile number of the respective student. The program should be implemented as a menu-driven program with the following menus,<br>
 &emsp; - Insert<br>
