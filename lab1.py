@@ -25,13 +25,15 @@ target = int(input("Enter the target : "))
 # Binary search algorithm
 low = 0
 high = len(l)-1
-
+flag = True
 while low<=high:
     guess = (high+low)//2
     if l[guess]==target:
         print('Found at index ', guess)
-        break
+        flag = False
     elif l[guess]>target:
         high=guess-1
     else:
         low=guess+1
+if flag:
+    print("Element not found in the list..")
