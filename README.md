@@ -70,6 +70,6 @@ b) Age between 40 and 50<br>
 c) Age between 30 and 40<br>
 d) Age less than 30<br>
 2. Find the probability of diabetes with a glucose level of more than 120 + blood pressure of more than 90 + skin thickness of more than 30 + insulin above 150 + BMI above 25.<br>
-Note: In the outcome column given in the dataset, 1 means that diabetes is present, and 0 means the absence of diabetes.<br>
-**INPUT CSV FILE** : [diabetes.csv](https://github.com/datvi-031/dataScience-Python-lab/blob/main/diabetes.csv)<br>
+Note: In the outcome column given in the dataset, 1 means that diabetes is present, and 0 means the absence of diabetes.<br><br>
+**Input CSV file** : [diabetes.csv](https://github.com/datvi-031/dataScience-Python-lab/blob/main/diabetes.csv)<br>
 **Solution** : [cs20b1031_diabetes.py](https://github.com/datvi-031/dataScience-Python-lab/blob/main/cs20b1031_diabetes.py) <br><br>
